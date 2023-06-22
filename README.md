@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis Galindo</h1>
-<h3 align="center">Estudiante de Ingeniería en Software</h3>
+<h3 align="center">Software Engineering Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=galindo-lab&label=Profile%20views&color=0e75b6&style=flat" alt="galindo-lab" /> </p>
 
