@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Luis GAlindo</h1>
-<h3 align="center">Estudiante de Ingeniería en Software con amplia experiencia en programación desde los 15 años.</h3>
+<h1 align="center">Hi 👋, I'm Luis Galindo</h1>
+<h3 align="center">Estudiante de Ingeniería en Software </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
