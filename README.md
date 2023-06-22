@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Luis Galindo</h1>
 <h3 align="center">Estudiante de Ingeniería en Software</h3>
 
+- 🔭 I’m currently working on [Complexity and Computation Academic Group](https://github.com/CC-FCQI-UABC)
+
+- 🌱 I’m currently learning **Boostrap, Spring boot and Django**
+
+- 👨‍💻 All of my projects are available at [https://galindo-lab.github.io/](https://galindo-lab.github.io/)
+
+- 📫 How to reach me **egalindo54@uabc.edu.mx**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/22015904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22015904" height="30" width="40" /></a>
