@@ -1,1 +1,7 @@
-Passionate software developer with expertise in diverse technologies, focusing on creating scalable solutions for complex challenges. Proficient in Django for web development, MySQL database design, and adept in Unix environments. Experienced in C and Python, delivering high-quality results in multifaceted projects. 
+Passionate software developer with expertise in diverse technologies, focusing on creating scalable solutions for complex challenges. 
+
++ Django
++ MySQL
++ Unix
++ C
++ Python 
