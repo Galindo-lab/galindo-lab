@@ -13,5 +13,5 @@ creating scalable solutions for complex challenges.
   - University: Universidad Autónoma de Baja California (UABC)
   - Expected Graduation: 2025
 
-## Personal Information
+### Personal Information
 - **Email:** egalindo54@uabc.edu.mx
