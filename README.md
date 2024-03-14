@@ -12,3 +12,6 @@ creating scalable solutions for complex challenges.
 - **Bachelor's Degree in Software Engineering**
   - University: Universidad Autónoma de Baja California (UABC)
   - Expected Graduation: 2025
+
+## Personal Information
+- **Email:** egalindo54@uabc.edu.mx
