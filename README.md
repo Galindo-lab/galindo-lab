@@ -1,4 +1,4 @@
-### Summary
+## Summary
 Passionate software developer with expertise in diverse technologies, focusing on
 creating scalable solutions for complex challenges. 
 
@@ -8,7 +8,7 @@ creating scalable solutions for complex challenges.
 - Experience in Unix environments
 - Proficiency in C and Python
 
-## Education
+### Education
 - **Bachelor's Degree in Software Engineering**
   - University: Universidad Autónoma de Baja California (UABC)
   - Expected Graduation: 2025
