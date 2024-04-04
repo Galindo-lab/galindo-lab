@@ -3,9 +3,9 @@ Passionate software developer with expertise in diverse technologies, focusing o
 creating scalable solutions for complex challenges. 
 
 ### Education
-- **Bachelor's Degree in Software Engineering**
-  - University: Universidad Autónoma de Baja California (UABC)
-  - Expected Graduation: 2025
+#### Bachelor's Degree in Software Engineering
+- University: Universidad Autónoma de Baja California (UABC)
+- Expected Graduation: 2025
     
 ### Skills
 <div align="center">
