@@ -37,6 +37,6 @@
 <br>
 <br>
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galindo-lab&layout=compact&hide_border=true&hide_title=true" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=galindo-lab&show_icons=true&rank_icon=github&hide_border=true&hide_title=true"/></a> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=galindo-lab&show_icons=true&hide_border=true&hide_title=true&layout=compact"/></a> 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galindo-lab&layout=compact&hide_border=true&hide_title=true" /></a> <a href="https://github.com/anuraghazra/github-readme-stats">
 
