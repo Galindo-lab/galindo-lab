@@ -33,9 +33,7 @@
 	<code><img width="20" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/></code>
 </div>
 <br>
-<br>
 
-### Cool Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=galindo-lab&show_icons=true&hide_border=true&hide_title=true&layout=compact"/></a> 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galindo-lab&layout=compact&hide_border=true&hide_title=true" /></a> <a href="https://github.com/anuraghazra/github-readme-stats">
 
