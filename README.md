@@ -1,9 +1,14 @@
-## Summary
-Passionate software developer with expertise in diverse technologies, focusing on
-creating scalable solutions for complex challenges. 
+
+Passionate software developer with expertise in diverse technologies. 
+
+### About me
+- 💼 Software engineering student at UABC
+- 📈 Focusing on creating scalable solutions for complex challenges
+- ♾️ I love functional programming
+- 💬 Ask me about anything [here](https://github.com/Galindo-lab/galindo-lab/issues)
 
 ### Education
-#### Bachelor's Degree in Software Engineering
+**Bachelor's Degree in Software Engineering**
 - University: Universidad Autónoma de Baja California (UABC)
 - Expected Graduation: 2025
 
@@ -30,6 +35,7 @@ creating scalable solutions for complex challenges.
 	<code><img width="20" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/></code>
 </div>
 
+<br>
 <br>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=galindo-lab&show_icons=true&rank_icon=github&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galindo-lab&layout=compact&hide_border=true" /></a> |
