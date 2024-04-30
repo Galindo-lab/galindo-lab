@@ -1,8 +1,4 @@
 
-<p align="center"><a href="https://anuraghazra.github.io"><img height="30%" alt="Hello, I'm Anurag. I do open source!" src="https://github.com/Galindo-lab/galindo-lab/assets/78140218/bb1d513f-472b-4d24-accd-ad2aba4cb8e3" /></a></p>
-
-<br />
-
 ### About me
 *Passionate software developer with expertise in diverse technologies.*
 - 💼 Software engineering student at UABC
