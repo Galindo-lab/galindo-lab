@@ -1,4 +1,13 @@
 
+```forth
+OK
+:HELLO-WORLD ( -- )
+ ." Hello World!" CR ;
+OK
+HELLO-WORLD Hello World!
+OK
+```
+
 ### About me
 *Passionate software developer with expertise in diverse technologies.*
 - 💼 Software engineering student at UABC
