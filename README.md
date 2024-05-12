@@ -1,3 +1,5 @@
+## ᴇ. ɢ ᴀ ʟ ɪ ɴ ᴅ ᴏ _
+
 ### About me
 *Passionate software developer with expertise in diverse technologies.*
 - 💼 Software engineering student at UABC
