@@ -1,4 +1,4 @@
-# ᴇ. ɢ ᴀ ʟ ɪ ɴ ᴅ ᴏ _
+<p style="text-align: center;">ᴇ. ɢ ᴀ ʟ ɪ ɴ ᴅ ᴏ _</p>
 
 ### About me
 *Passionate software developer with expertise in diverse technologies.*
