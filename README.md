@@ -1,4 +1,4 @@
-## ᴇ. ɢ ᴀ ʟ ɪ ɴ ᴅ ᴏ _
+# ᴇ. ɢ ᴀ ʟ ɪ ɴ ᴅ ᴏ _
 
 ### About me
 *Passionate software developer with expertise in diverse technologies.*
