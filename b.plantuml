@@ -1,0 +1,191 @@
+
+@startuml
+title Proyecto JAgile
+!theme plain
+
+skinparam classAttributeIconSize 0
+scale 2
+
+'top to bottom direction
+'left to right direction
+
+'skinparam linetype polyline
+'skinparam linetype ortho
+
+package java.io {
+        class File {
+                +File(String path)
+                +boolean exists()
+        }
+}
+
+package net.sf.mpxj {
+        class Project {
+                + getTasks() : List<Task>
+                + getResources() : List<Resource>
+        }
+}
+
+package sim.engine {
+        interface Stepeable <<interface>> {
+                + step(state: SimState): void
+        }
+
+        interface SimState <<interface>> {
+                + Simulation(seed: long)
+        }
+}
+
+package io {
+        
+        interface SimulationReporter <<interface>> {
+                + report(simulation.Simulation)
+                + save(File) : void                
+        }
+        
+        interface ProjectImporter <<interface>> {
+                + ProjectImporter(File)
+                + getProyect() : Proyect
+        }
+
+        class SimulationReport {
+                + proyect : java.io.File
+                + simulation : java.io.File
+
+                + SimulationReport(simulation.Simulation, File): void
+                - proyectReport() : String
+                - simulationReport() : String
+        }
+
+        class ImportMicrosoftProyect {
+                + ImportMicrosoftProyect(File)
+                + ImportProject(net.sf.mpxj.Project)
+        }
+
+        ProjectImporter <|-- ImportMicrosoftProyect
+        SimulationReporter <|-- SimulationReport
+
+}
+
+package simulation {
+        
+        class TeamMember {
+                - tasks: List<Task>
+                + TeamMember(project: Project)
+                + getTasks(): List<Task>
+                - assignTasks(): void
+        }
+
+        class Simulation {
+                - project: ProjectImporter
+                - agents: List<TeamMember>
+                
+                + start()
+                + main(args: String[]) : void
+        }
+
+        ' asociacion unidireccional
+        simulation.TeamMember " *..0 " --o  simulation.Simulation
+}
+
+
+package data {
+        
+        enum TaskStatus <<enum>> {
+                TODO,
+                IN_PROGRESS,
+                DONE
+        }
+
+        
+        interface Identificable <<interface>> {
+                + getName(): String
+                + getID(): Integer
+        }
+
+        interface Estimable <<interface>> {
+                + getActualCost(): Float
+                + getEstimatedCost(): Float
+                + getRealCost(): Float
+                + getEstimatedDuration() :Integer
+                + getActualDuration(): Integer
+                + getRealDuration(): Integer
+        }
+
+        class Resource {
+                - id: Integer
+                - name: String
+                - rate: Double
+
+                + Resource(id: Integer, name: String, rate: Double)
+                + getRate(): Double
+                + setRate(rate: Double): void
+        }
+        
+        class Taskboard {
+                - tasks: List<Task>
+                + getTasks(): List<Task>
+                + setTasks(tasks: List<Task>): void
+                + getTaskById(ID: int): Task
+        }
+
+        class Project {
+                - name: String
+                + resources: List<Resource>
+                + taskboard : Taskboard
+
+                + Project(file: File)
+                + getName(): String
+                + setResources(resources: List<Resource>): void
+        }
+        
+        class Task {
+                - name: String
+                - ID: Integer
+                - status: Status
+                - duration: Integer
+                - actualDuration: Integer
+                - realDuration: Integer
+                - actualCost: Float
+                - realCost: Float
+                + resources: List<Resource>
+                + predecessors: List<Task>
+
+                + Task(int ID, String name, Status status, int duration)
+                + setStatus(Status status): void
+                + getStatus(): Status
+        }
+
+        Estimable <|... Task
+        Estimable <|... Project
+
+        Identificable <|... Task
+        Identificable <|... Resource
+
+        Resource "1..*" x---left-o Task : ""
+        
+        Task "0..*" --o "1" Taskboard 
+        Task "0..*" <-- "0..*" Task   /'todos los task tienen predecesores'/
+        Taskboard "1" --* "1" Project
+        
+        Resource "*..0" --o "1" Project
+        Task +-- TaskStatus
+}
+
+
+
+io.ImportMicrosoftProyect --r-> net.sf.mpxj.Project
+simulation.Simulation -- io.SimulationReporter
+
+io.ProjectImporter -r-> java.io.File
+io.SimulationReporter -r-> java.io.File
+
+data.Project --- io.ProjectImporter 
+simulation.Simulation "1" *--- "1" data.Project
+
+sim.engine.SimState <|.. simulation.Simulation
+sim.engine.Stepeable <|.. simulation.TeamMember
+
+data.Resource <|-- simulation.TeamMember 
+
+@enduml
