@@ -1,6 +1,4 @@
-<p style="text-align: center;">ᴇ. ɢ ᴀ ʟ ɪ ɴ ᴅ ᴏ _</p>
-
-### About me
+### ᴇ. ɢ ᴀ ʟ ɪ ɴ ᴅ ᴏ _
 *Passionate software developer with expertise in diverse technologies.*
 - 💼 Software engineering student at UABC
 - 🌿 Focusing on creating scalable solutions for complex challenges
