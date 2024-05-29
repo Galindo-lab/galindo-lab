@@ -1,7 +1,7 @@
 ### ᴇ. ɢ ᴀ ʟ ɪ ɴ ᴅ ᴏ _
 *Passionate software developer with expertise in diverse technologies.*
 - 💼 Software engineering student at UABC
-- 🌿 Focusing on creating scalable solutions for complex challenges
+- 🌿 Focusing on creating scalable solutions for complex challenges.
 - ♾️ I love functional programming
 - 💬 Ask me about anything [here](https://github.com/Galindo-lab/galindo-lab/issues)
 
