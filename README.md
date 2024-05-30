@@ -10,6 +10,7 @@
 - University: Universidad Autónoma de Baja California (UABC)
 - Expected Graduation: 2025
 
+### Skills
 <br>
 <div align="">
 	<code><img width="20" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
