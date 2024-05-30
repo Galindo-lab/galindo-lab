@@ -33,9 +33,11 @@
 </div>
 <br>
 
+	
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=galindo-lab&show_icons=true&hide_border=true&hide_title=true&layout=compact"/></a> 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galindo-lab&layout=compact&hide_border=true&hide_title=true" /></a> <a href="https://github.com/anuraghazra/github-readme-stats">
+<br>
+<img width="120" src="https://github.com/Galindo-lab/galindo-lab/assets/78140218/bdffc37f-5751-4f09-bd06-58ef09be4d66" alt="GitHub" title="GitHub"/>
 
 
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c1f6a0a9-d35b-4c5e-8eff-1670256d6934" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
