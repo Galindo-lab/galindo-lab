@@ -10,13 +10,7 @@
 - University: Universidad Autónoma de Baja California (UABC)
 - Expected Graduation: 2025
 
-
-### Github Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=galindo-lab&show_icons=true&hide_border=true&layout=compact&hide_title=true"/></a> 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galindo-lab&layout=compact&hide_border=true&hide_title=true" /></a> <a href="https://github.com/anuraghazra/github-readme-stats">
-
-
-
+### Skills
 <div align="">
 	<code><img width="20" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
 	<code><img width="20" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="IntelliJ" title="IntelliJ"/></code>
@@ -40,3 +34,11 @@
 
 <br>
 <img width="120" src="https://github.com/Galindo-lab/galindo-lab/assets/78140218/bdffc37f-5751-4f09-bd06-58ef09be4d66" alt="GitHub" title="GitHub"/>
+
+
+### Github Stats
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=galindo-lab&show_icons=true&hide_border=true&layout=compact&hide_title=true&hide_rank=true"/></a> 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galindo-lab&layout=compact&hide_border=true&hide_title=true" /></a> <a href="https://github.com/anuraghazra/github-readme-stats">
+
+
+
