@@ -1,7 +1,7 @@
 
 <img width=100 src="https://github.com/Galindo-lab/galindo-lab/assets/78140218/b5ff31f5-701d-487f-8492-5d9a2c7089bb">
 
-
+### Luis Galindo
 *Passionate software developer with expertise in diverse technologies.*
 - 💼 Software engineering student at UABC
 - 🌿 Focusing on creating scalable solutions for complex challenges
