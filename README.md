@@ -38,9 +38,6 @@
 <br>
 <a href="https://www.credly.com/badges/c1f6a0a9-d35b-4c5e-8eff-1670256d6934/public_url"><img width="120" src="https://github.com/Galindo-lab/galindo-lab/assets/78140218/bdffc37f-5751-4f09-bd06-58ef09be4d66" alt="GitHub" title="GitHub"/></a>
 
-### Github Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=galindo-lab&show_icons=true&hide_border=true&layout=compact&hide_title=true&hide_rank=true"/></a> 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galindo-lab&layout=compact&hide_border=true&hide_title=true" /></a> <a href="https://github.com/anuraghazra/github-readme-stats">
 
 
 
