@@ -33,6 +33,7 @@
 	<code><img width="20" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash" title="bash"/></code>
 	<code><img width="20" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code>
 	<code><img width="20" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/></code>
+ 	<code><img width="20" src="https://github.com/user-attachments/assets/2cb203d0-b143-4f75-a36c-cdf4d97f675d" alt="Ubuntu" title="Ubuntu"/></code>
 </div>
 
 <br>
