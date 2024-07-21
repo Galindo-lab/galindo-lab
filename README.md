@@ -37,5 +37,6 @@
 </div>
 
 <br>
-<a href="https://www.credly.com/badges/c1f6a0a9-d35b-4c5e-8eff-1670256d6934/public_url"><img width="120" src="https://github.com/Galindo-lab/galindo-lab/assets/78140218/bdffc37f-5751-4f09-bd06-58ef09be4d66" alt="GitHub" title="GitHub"/></a>
 <a href="https://www.credly.com/badges/b1e36799-9498-42e7-9d13-a819d5305a81/public_url"><img width="120" src="https://github.com/user-attachments/assets/bc91ba50-58c7-4674-9ae4-56d9e3afd79f" alt="GitHub" title="GitHub"/></a>
+<a href="https://www.credly.com/badges/c1f6a0a9-d35b-4c5e-8eff-1670256d6934/public_url"><img width="120" src="https://github.com/Galindo-lab/galindo-lab/assets/78140218/bdffc37f-5751-4f09-bd06-58ef09be4d66" alt="GitHub" title="GitHub"/></a>
+
