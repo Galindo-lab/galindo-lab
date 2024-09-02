@@ -13,6 +13,15 @@
 - University: Universidad Autónoma de Baja California (UABC)
 - Expected Graduation: 2025
 
+### Certifications
+**SAS Programmer Professional**
+- Issued by Coursera Authorized by SAS
+- [certificate](https://www.credly.com/badges/b1e36799-9498-42e7-9d13-a819d5305a81/public_url)
+
+**AWS Academy Introduction to Cloud**
+- Amazon Web Services Training and Certification
+- [certificate](https://www.credly.com/badges/c1f6a0a9-d35b-4c5e-8eff-1670256d6934/public_url)
+
 ### Skills
 <div align="">
 	<code><img width="20" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
@@ -35,8 +44,3 @@
 	<code><img width="20" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/></code>
  	<code><img width="20" src="https://github.com/user-attachments/assets/2cb203d0-b143-4f75-a36c-cdf4d97f675d" alt="Ubuntu" title="Ubuntu"/></code>
 </div>
-
-<br>
-<a href="https://www.credly.com/badges/b1e36799-9498-42e7-9d13-a819d5305a81/public_url"><img width="120" src="https://github.com/user-attachments/assets/bc91ba50-58c7-4674-9ae4-56d9e3afd79f" alt="GitHub" title="GitHub"/></a>
-<a href="https://www.credly.com/badges/c1f6a0a9-d35b-4c5e-8eff-1670256d6934/public_url"><img width="120" src="https://github.com/Galindo-lab/galindo-lab/assets/78140218/bdffc37f-5751-4f09-bd06-58ef09be4d66" alt="GitHub" title="GitHub"/></a>
-
