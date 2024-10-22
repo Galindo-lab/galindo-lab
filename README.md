@@ -5,12 +5,12 @@
 - ♾️ I love functional programming
 - 💬 Ask me about anything [here](https://github.com/Galindo-lab/galindo-lab/issues)
 
-## Education
+### Education
 **Bachelor's Degree in Software Engineering**
 - University: Universidad Autónoma de Baja California (UABC)
 - Expected Graduation: 2025
 
-## Certifications
+### Certifications
 **SAS Programmer Professional**
 - Issued by Coursera Authorized by SAS
 - [certificate](https://www.credly.com/badges/b1e36799-9498-42e7-9d13-a819d5305a81/public_url)
