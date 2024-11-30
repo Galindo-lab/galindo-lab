@@ -1,4 +1,4 @@
-## Luis Galindo
+### Luis Galindo
 *Passionate software developer with expertise in diverse technologies.*
 - 💼 Software engineering student at UABC
 - 🌿 Focusing on creating scalable solutions for complex challenges
