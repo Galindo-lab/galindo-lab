@@ -10,8 +10,5 @@
 - Expected Graduation: 2025
 
 ### Certifications
-**SAS Programmer Professional**
-- [Issued by Coursera Authorized by SAS](https://www.credly.com/badges/b1e36799-9498-42e7-9d13-a819d5305a81/public_url)
-
-**AWS Academy Introduction to Cloud**
-- [Amazon Web Services Training and Certification](https://www.credly.com/badges/c1f6a0a9-d35b-4c5e-8eff-1670256d6934/public_url)
+- [**SAS Programmer Professional**](https://www.credly.com/badges/b1e36799-9498-42e7-9d13-a819d5305a81/public_url)
+- [**AWS Academy Introduction to Cloud**](https://www.credly.com/badges/c1f6a0a9-d35b-4c5e-8eff-1670256d6934/public_url)
