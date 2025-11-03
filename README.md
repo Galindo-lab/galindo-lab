@@ -7,7 +7,6 @@
 ### Education
 **Bachelor's Degree in Software Engineering**
 - University: Universidad Autónoma de Baja California (UABC)
-- Expected Graduation: 2025
 
 ### Certifications
 - [**SAS Programmer Professional**](https://www.credly.com/badges/b1e36799-9498-42e7-9d13-a819d5305a81/public_url)
